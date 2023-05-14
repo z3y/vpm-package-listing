@@ -1,12 +1,12 @@
 {
     "name":"z3y's packages",
-    "id":"com.vrchat.example-listing",
+    "id":"io.github.z3y.vpm-package-listing",
     "url":"https://z3y.github.io/vpm-package-listing/index.json",
     "author":{
         "name":"z3y",
-        "url":"http://github.com/z3y",
+        "url":"http://github.com/z3y"
     },
-    "description":"",
+    "description":"z3y's package listing",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
