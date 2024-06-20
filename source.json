@@ -16,6 +16,7 @@
         "source:z3y/shaders",
         "source:z3y/ShaderGraphZ",
         "source:z3y/VRCMarker",
-        "source:z3y/ClusteredBIRP"
+        "source:z3y/ClusteredBIRP",
+        "source:z3y/ShaderGraph"
     ]
 }
