@@ -19,6 +19,7 @@
         "source:z3y/ShaderGraph",
         "source:z3y/ZPlayer",
         "source:z3y/XatlasLightmap",
-        "source:z3y/shaders"
+        "source:z3y/shaders",
+        "z3y/glim"
     ]
 }
